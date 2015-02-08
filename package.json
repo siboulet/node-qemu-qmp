@@ -1,0 +1,13 @@
+{
+  "name": "qemu-qmp",
+  "version": "0.5.0",
+  "description": "Node.js library for connecting to QEMU Machine Protocol (QMP)",
+  "author": "Simon Boulet <simon@nostalgeek.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siboulet/node-qemu-qmp"
+  },
+  "dependencies": {
+    "split": "*"
+  }
+}
